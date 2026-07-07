@@ -1,0 +1,6 @@
+body{font-family:Arial,sans-serif;direction:rtl;text-align:center;background:#f4f4f4;margin:0}
+header{background:#0b3d91;color:white;padding:40px}
+section{padding:30px}
+ul{list-style:none;padding:0}
+li{background:white;margin:10px auto;max-width:400px;padding:15px;border-radius:8px}
+footer{background:#222;color:white;padding:20px;margin-top:20px}
